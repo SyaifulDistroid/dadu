@@ -1,0 +1,2 @@
+# dadu
+Simple Game Dadu
